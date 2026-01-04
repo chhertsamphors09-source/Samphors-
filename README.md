@@ -1,13 +1,13 @@
 # Samphors Project
 
-គម្រោងសម្រាប់រៀនកម្មវិធី និងបង្កើតគម្រោងតូចៗ។
+A project for learning programming and GitHub.
 
-## អ្វីដែលខ្ញុំរៀន
-- រៀនការប្រើ GitHub
-- រៀនការសរសេរកម្មវិធី
-- រៀនការរក្សាទុកកូដ
+## What I'm Learning
+- How to use GitHub
+- How to write code
+- How to save my work
 
-## របៀបប្រើ
-1. ចម្លងគម្រោង៖
+## How to Use
+1. Copy this project:
 ```bash
 git clone https://github.com/chhertsamphors09-source/Samphors-.git
