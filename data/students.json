@@ -1,0 +1,25 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Sok",
+      "age": 20,
+      "major": "Computer Science",
+      "courses": ["Math", "Programming", "Statistics"]
+    },
+    {
+      "id": 2,
+      "name": "Dara",
+      "age": 21,
+      "major": "Data Science",
+      "courses": ["Python", "Machine Learning", "Database"]
+    },
+    {
+      "id": 3,
+      "name": "Mey",
+      "age": 19,
+      "major": "Mathematics",
+      "courses": ["Calculus", "Algebra", "Statistics"]
+    }
+  ]
+}
